@@ -1,0 +1,14 @@
+title = "recivepost"
+url = "/recivepost"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+     $this["say"] = htmlspecialchars($_POST['say']);
+  $this["to"]  = htmlspecialchars($_POST['to']);
+    
+}
+?>
+==
+{{say}}   {{to}}

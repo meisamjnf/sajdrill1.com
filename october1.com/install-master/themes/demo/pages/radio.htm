@@ -1,0 +1,76 @@
+title = "mojaz"
+url = "/mojaz"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+   /* $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";*/
+    
+    
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+             $this["word"] =  pow(26, $this["word"]);
+            
+        }
+    
+    
+        
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+      
+     
+     
+     
+     
+     
+     
+     
+}
+?>
+==
+<form method="post" action="" > 
+
+
+
+
+word:<input type="number" name="word" value="" , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="" , min="0" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{word}}

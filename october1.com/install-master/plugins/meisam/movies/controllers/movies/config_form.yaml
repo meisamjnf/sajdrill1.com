@@ -1,0 +1,10 @@
+name: Movies
+form: $/meisam/movies/models/movie/fields.yaml
+modelClass: Meisam\Movies\Models\Movie
+defaultRedirect: meisam/movies/movies
+create:
+    redirect: 'meisam/movies/movies/update/:id'
+    redirectClose: meisam/movies/movies
+update:
+    redirect: meisam/movies/movies
+    redirectClose: meisam/movies/movies

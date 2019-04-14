@@ -1,0 +1,182 @@
+title = "radio3"
+url = "/radio3"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    $this["a1"]="";
+    $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";
+    $this["v1"] = "";
+    $x=10;
+    $y=1;
+    $b=1;
+    
+    
+    if (Request::isMethod('post')) {
+        if (!empty(post("radio1"))) {
+                
+        // $this["word"] = post("radio1");
+        
+          
+      if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+      
+      
+      if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            $this["word"] = $this["word"] * $this["number"];
+        }
+     
+     }
+         
+         
+         
+           
+           
+              }       
+      }  
+      
+      
+      
+      
+     
+     
+     
+     //namojaz
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] = 11 - $this["number"];
+            
+            
+           for ($x =10; $x >=$this["number"]; $x--) { 
+               
+             
+              $y = $x * $y;
+              
+              
+              
+        
+     }
+      
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] = 27-$this["word"];
+            
+            
+            for ($a =26; $a >=$this["word"]; $a--) { 
+               
+             
+              $b = $a * $b;
+            }
+            
+            
+            $this["result"] = $b * $y;
+        }
+     
+     }
+     
+     
+        }
+    }
+     
+     
+     
+     
+
+     
+     
+     
+     
+     
+        if($this["word"]) {
+            
+            $this["v1"] = true;
+        }elseif($this["result"]) {
+            
+            $this["v2"] = false;
+            
+            }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+      
+}
+?>
+==
+<form method="post" action="radio3">
+
+word:<input type="number" name="word" value="" , min ="0" > </br> </br>
+number: <input type="number" name="number" value="" , min="0" > </br>
+</br>
+</br>
+
+<input type="radio" name="radio1" value= "" > ba tekrar<br>
+{{word}}
+
+<input type="radio" name="radio2" value=""> bedune tekrar<br>
+{{result}}
+
+<input type="submit" name-"submit" value="sunmit"></br>
+</from>
+</br>

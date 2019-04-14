@@ -1,0 +1,25 @@
+1555219176a:1:{s:8:"aaaa.htm";a:8:{s:8:"fileName";s:8:"aaaa.htm";s:7:"content";s:258:"title = "aaaa"
+url = "/aaaa"
+is_hidden = 0
+==
+<?php
+function onStart() 
+{
+    $myArr = new \stdClass();
+    $myArr = array("John", "Mary", "Peter", "Sally");
+    $myJSON = json_encode($myArr);
+    $this["A1"] = $myJSON;
+    
+    
+    }
+?>
+==
+{{ A1 }}";s:5:"mtime";i:1551961252;s:6:"markup";s:8:"{{ A1 }}";s:4:"code";s:191:"function onStart() 
+{
+    $myArr = new \stdClass();
+    $myArr = array("John", "Mary", "Peter", "Sally");
+    $myJSON = json_encode($myArr);
+    $this["A1"] = $myJSON;
+    
+    
+    }";s:5:"title";s:4:"aaaa";s:3:"url";s:5:"/aaaa";s:9:"is_hidden";s:1:"0";}}

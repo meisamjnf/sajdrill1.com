@@ -1,0 +1,191 @@
+1555219176a:1:{s:14:"ssdfsdfsdf.htm";a:8:{s:8:"fileName";s:14:"ssdfsdfsdf.htm";s:7:"content";s:1947:"title = "nomojaz"
+url = "/nomojaz"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    
+    /*$this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";*/
+    $x=10;
+    $y=1;
+    $b=1;
+    
+    
+   
+    
+    
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] = 11 - $this["number"];
+            
+            
+           for ($x =10; $x >=$this["number"]; $x--) { 
+               
+             
+              $y = $x * $y;
+              
+              
+              
+        
+     }
+     
+      
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] = 27-$this["word"];
+            
+            
+            for ($a =26; $a >=$this["word"]; $a--) { 
+               
+             
+              $b = $a * $b;
+            }
+            
+            
+            $this["result"] = $b * $y;
+        }
+     
+     }
+     
+     
+        }
+        }
+}
+?>
+==
+<form method="post" action="" > 
+
+
+
+
+word:<input type="number" name="word" value="" , min ="0" > </br>
+
+
+<span> {{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="" , min="1", max="10" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{result}}";s:5:"mtime";i:1551190313;s:6:"markup";s:352:"<form method="post" action="" > 
+
+
+
+
+word:<input type="number" name="word" value="" , min ="0" > </br>
+
+
+<span> {{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="" , min="1", max="10" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{result}}";s:4:"code";s:1530:"function onStart() {
+    
+    
+    /*$this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";*/
+    $x=10;
+    $y=1;
+    $b=1;
+    
+    
+   
+    
+    
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] = 11 - $this["number"];
+            
+            
+           for ($x =10; $x >=$this["number"]; $x--) { 
+               
+             
+              $y = $x * $y;
+              
+              
+              
+        
+     }
+     
+      
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] = 27-$this["word"];
+            
+            
+            for ($a =26; $a >=$this["word"]; $a--) { 
+               
+             
+              $b = $a * $b;
+            }
+            
+            
+            $this["result"] = $b * $y;
+        }
+     
+     }
+     
+     
+        }
+        }
+}";s:5:"title";s:7:"nomojaz";s:3:"url";s:8:"/nomojaz";s:9:"is_hidden";s:1:"0";}}

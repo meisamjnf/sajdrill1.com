@@ -1,0 +1,17 @@
+title = "aaaa"
+url = "/aaaa"
+is_hidden = 0
+==
+<?php
+function onStart() 
+{
+    $myArr = new \stdClass();
+    $myArr = array("John", "Mary", "Peter", "Sally");
+    $myJSON = json_encode($myArr);
+    $this["A1"] = $myJSON;
+    
+    
+    }
+?>
+==
+{{ A1 }}

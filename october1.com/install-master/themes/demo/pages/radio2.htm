@@ -1,0 +1,33 @@
+title = "radio2"
+url = "/radio2"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    $this["a1"]="";
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (!empty(post("gender"))) {
+                
+     
+        $this["a1"] = post("gender");
+    
+    
+         
+         
+                         }
+                  } 
+}
+?>
+==
+<form method="post" action="radio2">
+<input type="radio" name="gender" value="mae"> Male<br>
+<input type="radio" name="gender" value="female"> Female<br>
+<input type="radio" name="gender" value="other"> Other
+<input type="submit" name-"submit" value="sunmit"></br>
+</from>
+</br>
+{{a1}}

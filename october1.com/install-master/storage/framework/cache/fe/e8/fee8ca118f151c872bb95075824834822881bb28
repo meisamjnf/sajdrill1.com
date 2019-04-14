@@ -1,0 +1,21 @@
+1555219176a:1:{s:15:"formoctober.htm";a:8:{s:8:"fileName";s:15:"formoctober.htm";s:7:"content";s:188:"title = "formoctober"
+url = "/formoctober"
+is_hidden = 0
+==
+<?php
+function onStart() {
+$user = BackendAuth::getUser();
+
+if ($user) {
+     $this["a1"] = "hi ". $user;
+}
+}
+?>
+==
+{{a1}}";s:5:"mtime";i:1551618207;s:6:"markup";s:6:"{{a1}}";s:4:"code";s:109:"function onStart() {
+$user = BackendAuth::getUser();
+
+if ($user) {
+     $this["a1"] = "hi ". $user;
+}
+}";s:5:"title";s:11:"formoctober";s:3:"url";s:12:"/formoctober";s:9:"is_hidden";s:1:"0";}}

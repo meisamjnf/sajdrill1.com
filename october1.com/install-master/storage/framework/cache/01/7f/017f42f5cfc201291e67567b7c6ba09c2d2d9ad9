@@ -1,0 +1,27 @@
+1555219176a:1:{s:16:"json-example.htm";a:8:{s:8:"fileName";s:16:"json-example.htm";s:7:"content";s:264:"title = "json example"
+url = "/json-example"
+is_hidden = 0
+==
+<?php
+function onStart() {
+   
+   $myObj = new \stdClass();
+    $myObj->id = 1;
+$myObj->   username = "meisam";
+$myObj-> time1 = "19:40";
+
+$this["a1"] = json_encode($myObj);
+    
+}
+?>
+==
+{{a1}}";s:5:"mtime";i:1551962984;s:6:"markup";s:6:"{{a1}}";s:4:"code";s:183:"function onStart() {
+   
+   $myObj = new \stdClass();
+    $myObj->id = 1;
+$myObj->   username = "meisam";
+$myObj-> time1 = "19:40";
+
+$this["a1"] = json_encode($myObj);
+    
+}";s:5:"title";s:12:"json example";s:3:"url";s:13:"/json-example";s:9:"is_hidden";s:1:"0";}}

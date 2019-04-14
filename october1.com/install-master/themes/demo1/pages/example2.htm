@@ -1,0 +1,59 @@
+title = "pelak"
+url = "/pelak"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    $this["word"] ="";
+    $this["wordErr"] = "";
+    
+    
+    $this["kalame"] = "";
+    $this["kalameErr"] = "";
+     
+  if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] = $this["word"] *($this["word"]-1) * ($this["word"]-2) * ($this["word"]-3);
+            
+            
+            
+        }
+        if (empty(post("kalame"))) {
+            $this["kalameErr"] = "kalame is required";
+        } else {
+            $this["kalame"] = post("kalame");
+            
+            $this["kalame"] = $this["kalame"] * ($this["kalame"]-1);
+             
+            $this["kalame"] = $this["kalame"] * $this["word"];
+            
+        }
+    
+    
+    }
+    
+    
+    
+    
+    
+}
+?>
+==
+<form method="post" action="example2" >  
+Number:<input type="number" name="word" value={{word}} , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+word:<input type="number" name="kalame" value="{{kalame}}" , min= "0" max="26">
+<span> {{kalameErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+</br>{{kalame}}

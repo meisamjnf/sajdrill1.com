@@ -1,0 +1,22 @@
+title = "show"
+url = "/show"
+is_hidden = 0
+==
+<p>How many check boxes do you want when clicked on a radio button?</p>
+<input type="radio" name="tab" value="" onclick="show1();" />
+None
+<input type="radio" name="tab" value="" onclick="show2();" />
+Two
+<p id="div1"> asdadasdasd </p>
+
+
+
+<script>
+function show1(){
+  document.getElementById('div1').style.display ='none';
+}
+function show2(){
+  document.getElementById('div1').style.display = 'sda';
+}
+
+</script>

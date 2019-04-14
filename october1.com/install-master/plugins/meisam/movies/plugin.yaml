@@ -1,0 +1,11 @@
+plugin:
+    name: 'meisam.movies::lang.plugin.name'
+    description: 'meisam.movies::lang.plugin.description'
+    author: Meisam
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: meisam/movies/movies
+        icon: icon-video-camera

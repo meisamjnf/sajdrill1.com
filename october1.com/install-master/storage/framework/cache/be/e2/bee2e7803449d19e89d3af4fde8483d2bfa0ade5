@@ -1,0 +1,57 @@
+1555219176a:1:{s:11:"votable.htm";a:8:{s:8:"fileName";s:11:"votable.htm";s:7:"content";s:602:"title = "Votable"
+url = "/votable"
+is_hidden = 0
+==
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Input your age and click the button:</p>
+
+<input id="age" value="18" />
+
+<button type="Button" onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var age, voteable;
+    age = Number(document.getElementById("age").value);
+    if (isNaN(age)) {
+        voteable = "Error in input";
+    } else {
+        voteable = (age < 18) ? "Too young" : "Old enough";
+    }
+    document.getElementById("demo").innerHTML = voteable;
+}
+</script>
+
+</body>
+</html>";s:5:"mtime";i:1552801750;s:6:"markup";s:550:"<!DOCTYPE html>
+<html>
+<body>
+
+<p>Input your age and click the button:</p>
+
+<input id="age" value="18" />
+
+<button type="Button" onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var age, voteable;
+    age = Number(document.getElementById("age").value);
+    if (isNaN(age)) {
+        voteable = "Error in input";
+    } else {
+        voteable = (age < 18) ? "Too young" : "Old enough";
+    }
+    document.getElementById("demo").innerHTML = voteable;
+}
+</script>
+
+</body>
+</html>";s:4:"code";N;s:5:"title";s:7:"Votable";s:3:"url";s:8:"/votable";s:9:"is_hidden";s:1:"0";}}

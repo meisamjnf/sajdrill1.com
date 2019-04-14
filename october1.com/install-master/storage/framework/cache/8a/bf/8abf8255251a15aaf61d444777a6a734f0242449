@@ -1,0 +1,15 @@
+1555219176a:1:{s:8:"show.htm";a:9:{s:8:"fileName";s:8:"show.htm";s:7:"content";s:312:"title = "show"
+url = "/show"
+is_hidden = 0
+
+[builderList]
+modelClass = "Meisam\Movies\Models\Movie"
+scope = "-"
+scopeValue = "{{ :scope }}"
+displayColumn = "description"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% component 'builderList' %}";s:5:"mtime";i:1554010465;s:6:"markup";s:29:"{% component 'builderList' %}";s:4:"code";N;s:5:"title";s:4:"show";s:3:"url";s:5:"/show";s:9:"is_hidden";s:1:"0";s:11:"builderList";a:8:{s:10:"modelClass";s:26:"Meisam\Movies\Models\Movie";s:5:"scope";s:1:"-";s:10:"scopeValue";s:12:"{{ :scope }}";s:13:"displayColumn";s:11:"description";s:16:"noRecordsMessage";s:16:"No records found";s:11:"detailsPage";s:1:"-";s:19:"detailsUrlParameter";s:2:"id";s:10:"pageNumber";s:11:"{{ :page }}";}}}

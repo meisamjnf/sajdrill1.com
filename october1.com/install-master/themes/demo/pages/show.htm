@@ -1,0 +1,15 @@
+title = "show"
+url = "/show"
+is_hidden = 0
+
+[builderList]
+modelClass = "Meisam\Movies\Models\Movie"
+scope = "-"
+scopeValue = "{{ :scope }}"
+displayColumn = "description"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% component 'builderList' %}

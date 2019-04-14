@@ -1,0 +1,18 @@
+title = "json example"
+url = "/json-example"
+is_hidden = 0
+==
+<?php
+function onStart() {
+   
+   $myObj = new \stdClass();
+    $myObj->id = 1;
+$myObj->   username = "meisam";
+$myObj-> time1 = "19:40";
+
+$this["a1"] = json_encode($myObj);
+    
+}
+?>
+==
+{{a1}}

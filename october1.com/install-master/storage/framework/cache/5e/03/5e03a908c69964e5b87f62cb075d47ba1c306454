@@ -1,0 +1,57 @@
+1555219176a:1:{s:10:"radio2.htm";a:8:{s:8:"fileName";s:10:"radio2.htm";s:7:"content";s:648:"title = "radio2"
+url = "/radio2"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    $this["a1"]="";
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (!empty(post("gender"))) {
+                
+     
+        $this["a1"] = post("gender");
+    
+    
+         
+         
+                         }
+                  } 
+}
+?>
+==
+<form method="post" action="radio2">
+<input type="radio" name="gender" value="mae"> Male<br>
+<input type="radio" name="gender" value="female"> Female<br>
+<input type="radio" name="gender" value="other"> Other
+<input type="submit" name-"submit" value="sunmit"></br>
+</from>
+</br>
+{{a1}}";s:5:"mtime";i:1550751995;s:6:"markup";s:292:"<form method="post" action="radio2">
+<input type="radio" name="gender" value="mae"> Male<br>
+<input type="radio" name="gender" value="female"> Female<br>
+<input type="radio" name="gender" value="other"> Other
+<input type="submit" name-"submit" value="sunmit"></br>
+</from>
+</br>
+{{a1}}";s:4:"code";s:293:"function onStart() {
+    
+    $this["a1"]="";
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (!empty(post("gender"))) {
+                
+     
+        $this["a1"] = post("gender");
+    
+    
+         
+         
+                         }
+                  } 
+}";s:5:"title";s:6:"radio2";s:3:"url";s:7:"/radio2";s:9:"is_hidden";s:1:"0";}}

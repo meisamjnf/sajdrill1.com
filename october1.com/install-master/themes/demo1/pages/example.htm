@@ -1,0 +1,15 @@
+title = "example"
+url = "/example"
+is_hidden = 0
+==
+<?php
+function onStart() {
+
+$this["name"] = Input::get('name');
+
+
+}
+?>
+==
+<input type="text" name="name" value={{name}}>
+<input type="submit" name="submit" value="Submit">

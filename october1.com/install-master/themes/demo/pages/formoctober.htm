@@ -1,0 +1,15 @@
+title = "formoctober"
+url = "/formoctober"
+is_hidden = 0
+==
+<?php
+function onStart() {
+$user = BackendAuth::getUser();
+
+if ($user) {
+     $this["a1"] = "hi ". $user;
+}
+}
+?>
+==
+{{a1}}

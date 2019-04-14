@@ -1,0 +1,122 @@
+title = "form"
+url = "/form"
+is_hidden = 0
+==
+<?php
+function test_input($data) {
+  $data = trim($data);
+  $data = stripslashes($data);
+  $data = htmlspecialchars($data);
+  return $data;
+}
+
+function onStart() {
+    
+    $this["nameErr"] = $this["emailErr"] = $this["genderErr"] =$this["websiteErr"] = "";
+    $this["name"] = $this["email"] = $this["gender"] = $this["comment"] = $this["website"] = "";
+    
+    $this["a1"] = "";
+    $this["tst1"] = post("name");
+    
+    if (Request::isMethod('post')) {
+        if (empty(post("name"))) {
+            $this["nameErr"] = "Name is required";
+        } else {
+            $this["name"] = $this->test_input(post("name"));
+            // check if name only contains letters and whitespace
+            if (!preg_match("/^[a-zA-Z ]*$/",$this["name"])) {
+                $this["nameErr"] = "Only letters and white space allowed"; 
+            }
+        }
+  
+        if (empty(post("email"))) {
+            $this["emailErr"] = "Email is required";
+        } else {
+           $this["email"] = $this->test_input(post("email"));
+            // check if e-mail address is well-formed
+            if (!filter_var($this["email"], FILTER_VALIDATE_EMAIL)) {
+                 $this["emailErr"] = "Invalid email format"; 
+            }
+        }
+        
+        if (empty(post("website"))) {
+            $this["website"] = "";
+        } else {
+            $this["website"] = $this->test_input(post("website"));
+            // check if URL address syntax is valid (this regular expression also allows dashes in the URL)
+            if (!preg_match("/\b(?:(?:https?|ftp):\/\/|www\.)[-a-z0-9+&@#\/%?=~_|!:,.;]*[-a-z0-9+&@#\/%=~_|]/i", $this["website"])) {
+            $this["websiteErr"] = "Invalid URL"; 
+            }
+        }
+    
+        if (empty(post("comment"))) {
+            $this["comment"] = "";
+        } else {
+            $this["comment"] = $this->test_input(post("comment"));
+        }
+    
+        if (empty(post("gender"))) {
+            $this["genderErr"] = "Gender is required";
+        } else {
+            $this["gender"] = $this->test_input(post("gender"));
+        }
+    
+        
+        if (isset($this["gender"]) && $this["gender"]=="female") {
+            $this["checked"] = "checked";
+        }
+        
+        if (isset($this["gender"]) && $this["gender"]=="male") {
+            $this["checked1"] = "checked";  
+        }
+        
+        if (isset( $this["gender"]) &&  $this["gender"]=="Other") {
+            $this["checked2"] = "checked";
+        }
+    }
+
+}
+?>
+==
+<!DOCTYPE HTML>  
+<html>
+<head>
+<style>
+.error {color: #FF0000;}
+</style>
+</head>
+<body> 
+{{tst1}}
+</br>
+{{tst2}}
+<h2>PHP Form Validation Example</h2>
+<p><span class="error">* required field</span></p>
+<form method="post" action="form" >  
+  Name: <input type="text" name="name" value={{name}}>
+  <span class="error">*  {{nameErr}}</span>
+  <br><br>
+  E-mail: <input type="text" name="email" value={{email}}>
+  <span class="error">* {{emailErr}}</span>
+  <br><br>
+  Website: <input type="text" name="website" value="{{website}}">
+  <span class="error"> {{websiteErr}} </span>
+  <br><br>
+  Comment: <textarea name="comment" rows="5" cols="40">{{comment}}</textarea>
+  <br><br>
+  Gender:
+  <input type="radio" name="gender" {{checked}} value="">Female
+  <input type="radio" name="gender" {{checked1}} value="male">Male
+  <input type="radio" name="gender"  {{checked2}} value="other">Other  
+  <span class="error">* </span>
+  <br><br>
+  <input type="submit" name="submit" value="Submit">  
+</form>
+
+{{name}}</br>
+{{email}}</br>
+{{website}}</br>
+{{comment}}</br>
+{{gender}}
+
+</body>
+</html>

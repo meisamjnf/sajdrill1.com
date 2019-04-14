@@ -1,0 +1,143 @@
+1555219176a:1:{s:9:"radio.htm";a:8:{s:8:"fileName";s:9:"radio.htm";s:7:"content";s:1324:"title = "mojaz"
+url = "/mojaz"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+   /* $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";*/
+    
+    
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+             $this["word"] =  pow(26, $this["word"]);
+            
+        }
+    
+    
+        
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+      
+     
+     
+     
+     
+     
+     
+     
+}
+?>
+==
+<form method="post" action="" > 
+
+
+
+
+word:<input type="number" name="word" value="" , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="" , min="0" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{word}}";s:5:"mtime";i:1551190053;s:6:"markup";s:333:"<form method="post" action="" > 
+
+
+
+
+word:<input type="number" name="word" value="" , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="" , min="0" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{word}}";s:4:"code";s:930:"function onStart() {
+    
+   /* $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";*/
+    
+    
+    
+    
+    
+    if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+             $this["word"] =  pow(26, $this["word"]);
+            
+        }
+    
+    
+        
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+      
+     
+     
+     
+     
+     
+     
+     
+}";s:5:"title";s:5:"mojaz";s:3:"url";s:6:"/mojaz";s:9:"is_hidden";s:1:"0";}}

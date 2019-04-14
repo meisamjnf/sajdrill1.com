@@ -1,0 +1,119 @@
+1555219176a:1:{s:14:"bootstrap1.htm";a:9:{s:8:"fileName";s:14:"bootstrap1.htm";s:7:"content";s:1748:"title = "bootstrap1"
+url = "/bootstrap1"
+is_hidden = 0
+
+[account]
+paramCode = "code"
+forceSecure = 0
+==
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+
+
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <!-- Brand/logo -->
+  <a class="navbar-brand" href="#">
+    <img src="http://memajco.com/storage/app/media/akhari%20aks%20ha/dimotto.jpg" alt="logo" style="width:140px;">
+  </a>
+  
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="http://october1.com/install-master/bootstrap/">home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">about</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">gallery</a>
+    </li>
+  </ul>
+</nav>
+
+{% if not user %}
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-6">
+            <h3>Sign in</h3>
+            {% partial account ~ '::signin' %}
+        </div>
+
+        <div class="col-md-6">
+            {% partial account ~ '::register' %}
+        </div>
+
+    </div></div>
+
+{% else %}
+
+    {% partial account ~ '::activation_check' %}
+
+    {% partial account ~ '::update' %}
+
+    {% partial account ~ '::deactivate_link' %}
+
+{% endif %}";s:5:"mtime";i:1554976160;s:6:"markup";s:1644:"<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+
+
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <!-- Brand/logo -->
+  <a class="navbar-brand" href="#">
+    <img src="http://memajco.com/storage/app/media/akhari%20aks%20ha/dimotto.jpg" alt="logo" style="width:140px;">
+  </a>
+  
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="http://october1.com/install-master/bootstrap/">home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">about</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">gallery</a>
+    </li>
+  </ul>
+</nav>
+
+{% if not user %}
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-6">
+            <h3>Sign in</h3>
+            {% partial account ~ '::signin' %}
+        </div>
+
+        <div class="col-md-6">
+            {% partial account ~ '::register' %}
+        </div>
+
+    </div></div>
+
+{% else %}
+
+    {% partial account ~ '::activation_check' %}
+
+    {% partial account ~ '::update' %}
+
+    {% partial account ~ '::deactivate_link' %}
+
+{% endif %}";s:4:"code";N;s:5:"title";s:10:"bootstrap1";s:3:"url";s:11:"/bootstrap1";s:9:"is_hidden";s:1:"0";s:7:"account";a:2:{s:9:"paramCode";s:4:"code";s:11:"forceSecure";s:1:"0";}}}

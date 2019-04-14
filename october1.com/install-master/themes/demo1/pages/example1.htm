@@ -1,0 +1,44 @@
+title = "cookie1"
+url = "/cookie1"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    $hasCookie = Cookie::has('qwe');
+    if( $hasCookie ) {
+        $this['v3'] = Cookie::get('qwe');
+    }
+
+    if (Request::isMethod('post')) {
+          Cookie::queue(Cookie::forever('qwe', post("name")));
+          $hasCookie = true;
+          $this['v3'] = post("name");
+          redirect('/example1')->withInput();
+    } else if( Input::has('cancel') ){
+        Cookie::queue(Cookie::forget('qwe'));
+        $hasCookie = false;
+        $this['v3'] = "user";
+        redirect('/example1')->withInput();
+    }
+    
+    If ( $hasCookie ){
+        $this['v2'] = true;
+    } else {
+         $this['v2'] = false;
+   }
+   
+}
+?>
+==
+{% if v2 == false %}
+    
+  <form method="post" action="example1">
+ <input type="text" name="name" value="">
+  
+<input type="submit" name="submit" value="Submit"> 
+</form>     
+
+ {% else %}       
+ salam {{v3}}   <a href="example1?cancel=true">close</a>
+    
+{% endif %}

@@ -1,0 +1,165 @@
+1555219176a:1:{s:12:"example3.htm";a:8:{s:8:"fileName";s:12:"example3.htm";s:7:"content";s:1706:"title = "example3"
+url = "/example3"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    
+    $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";
+    
+    
+   
+    
+    
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+     
+     
+     
+     
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            $this["word"] = $this["word"] * $this["number"];
+        }
+     
+     }
+     
+     
+     
+     
+}
+?>
+==
+<form method="post" action="example3" > 
+
+
+
+
+word:<input type="number" name="word" value={{word}} , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="{{number}}" , min="0" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{word}}";s:5:"mtime";i:1550993748;s:6:"markup";s:357:"<form method="post" action="example3" > 
+
+
+
+
+word:<input type="number" name="word" value={{word}} , min ="0" >
+
+
+<span>{{wordErr}} </span>
+</br>
+</br>
+
+
+number: <input type="number" name="number" value="{{number}}" , min="0" > 
+<span> {{numberErr}}
+<input type="submit" name="submit" value="Submit">
+</form>
+
+
+</br></br>
+result :{{word}}";s:4:"code";s:1282:"function onStart() {
+    
+    
+    $this["word"] ="";
+    $this["number"]= "";
+    $this["wordErr"]="";
+    $this["numberErr"]= "";
+    
+    
+   
+    
+    
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            
+        }
+        
+        
+        if (empty(post("number"))) {
+            $this["numberErr"] = "number is required";
+        } else {
+            $this["number"] = post("number");
+            
+            
+            $this["number"] =  pow(10, $this["number"]);
+               
+               
+            $this["word"] = $this["word"] * $this["number"];
+        }
+        
+        
+     }
+     
+     
+     
+     
+     if (Request::isMethod('post')) {
+        if (empty(post("word"))) {
+            $this["wordErr"] = "number is required";
+        } else {
+            $this["word"] = post("word");
+            
+            $this["word"] =  pow(26, $this["word"]);
+            
+            $this["word"] = $this["word"] * $this["number"];
+        }
+     
+     }
+     
+     
+     
+     
+}";s:5:"title";s:8:"example3";s:3:"url";s:9:"/example3";s:9:"is_hidden";s:1:"0";}}

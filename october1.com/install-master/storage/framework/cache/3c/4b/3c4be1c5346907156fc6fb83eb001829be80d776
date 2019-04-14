@@ -1,0 +1,66 @@
+1555219176a:1:{s:12:"location.htm";a:8:{s:8:"fileName";s:12:"location.htm";s:7:"content";s:1004:"title = "location"
+url = "/location"
+is_hidden = 0
+==
+<?php
+function onStart() {
+    
+    $url = json_decode(file_get_contents("http://api.ipinfodb.com/v3/ip-city/?key=<your_api_key>&ip=".$_SERVER['REMOTE_ADDR']."&format=json"));
+ 
+//print the array to see the fields if you wish.
+//print_r($url);
+ 
+echo "<table border='1' width='50%' align='center'><tr><td>COUNTRY:</td><td>";
+echo $url->countryName;
+echo "</td></tr><tr><td>CITY:</td><td>";
+echo $url->cityName;
+echo "</td></tr><tr><td>STATE OR REGION:</td><td>";
+echo $url->regionName;
+echo "</td></tr><tr><td>IP ADDRESS:</td><td>";
+echo $url->ipAddress;
+echo "</td></tr><tr><td>COUNTRY CODE:</td><td>";
+echo $url->countryCode;
+echo "</td></tr><tr><td>LATITUTE:</td><td>";
+echo $url->latitude;
+echo "</td></tr><tr><td>LONGITUDE:</td><td>";
+echo $url->longitude;
+echo "</td></tr><tr><td>TIMEZONE:</td><td>";
+echo $url->timeZone;
+echo "</td></tr><tr></table>";
+ 
+    
+    
+    echo $_SERVER['REMOTE_ADDR'];
+    
+    }
+?>
+==";s:5:"mtime";i:1554626849;s:6:"markup";s:0:"";s:4:"code";s:938:"function onStart() {
+    
+    $url = json_decode(file_get_contents("http://api.ipinfodb.com/v3/ip-city/?key=<your_api_key>&ip=".$_SERVER['REMOTE_ADDR']."&format=json"));
+ 
+//print the array to see the fields if you wish.
+//print_r($url);
+ 
+echo "<table border='1' width='50%' align='center'><tr><td>COUNTRY:</td><td>";
+echo $url->countryName;
+echo "</td></tr><tr><td>CITY:</td><td>";
+echo $url->cityName;
+echo "</td></tr><tr><td>STATE OR REGION:</td><td>";
+echo $url->regionName;
+echo "</td></tr><tr><td>IP ADDRESS:</td><td>";
+echo $url->ipAddress;
+echo "</td></tr><tr><td>COUNTRY CODE:</td><td>";
+echo $url->countryCode;
+echo "</td></tr><tr><td>LATITUTE:</td><td>";
+echo $url->latitude;
+echo "</td></tr><tr><td>LONGITUDE:</td><td>";
+echo $url->longitude;
+echo "</td></tr><tr><td>TIMEZONE:</td><td>";
+echo $url->timeZone;
+echo "</td></tr><tr></table>";
+ 
+    
+    
+    echo $_SERVER['REMOTE_ADDR'];
+    
+    }";s:5:"title";s:8:"location";s:3:"url";s:9:"/location";s:9:"is_hidden";s:1:"0";}}
