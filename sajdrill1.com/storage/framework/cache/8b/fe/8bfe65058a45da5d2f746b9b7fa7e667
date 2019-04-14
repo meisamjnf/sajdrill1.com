@@ -1,0 +1,34 @@
+9999999999s:1040:"a:2:{s:5:"mtime";i:1455174112;s:7:"content";s:986:"{% set posts = __SELF__.getRecentPosts() %}
+
+<table class="forum-table">
+    <tr>
+        <th>پست</th>
+        <th class="activity-column">زمان</th>
+    </tr>
+
+    {% for post in posts %}
+        {% set topic = post.topic %}
+        <tr class="forum-topic">
+<!--             <td> -->
+<!--                 {{ html_limit(post.content_html, 100)|raw }} -->
+<!--             </td> -->
+            <td>
+                {{ post.content_html }}
+            </td>
+            <td class="activity-column">
+                <p>
+                    ارسال شده در 
+                    <a href="{{ topic.url }}?page=last#post-{{ post.id }}">{{ topic.subject }}</a>
+                    {{ n2f(post.updated_at.diffForHumans) }}
+                </p>
+            </td>
+        </tr>
+    {% endfor %}
+
+    {% if not posts|length %}
+        <tr>
+            <td colspan="100">این کاربر مشارکتی در انجمن نداشته است.</td>
+        </tr>
+    {% endif %}
+</table>
+";}";

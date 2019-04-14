@@ -1,0 +1,21 @@
+9999999999s:961:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:365:"title = "انجمن"
+url = "/forum"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumChannels]
+memberPage = "forum/forum-member"
+channelPage = "forum/forum-channel"
+topicPage = "forum/forum-topic"
+==
+<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannels' %}
+    </div>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:10:"انجمن";s:3:"url";s:6:"/forum";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:1:{s:13:"forumChannels";a:3:{s:10:"memberPage";s:18:"forum/forum-member";s:11:"channelPage";s:19:"forum/forum-channel";s:9:"topicPage";s:17:"forum/forum-topic";}}}s:4:"code";N;s:6:"markup";s:116:"<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannels' %}
+    </div>
+</div>";}";

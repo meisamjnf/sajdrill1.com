@@ -1,0 +1,17 @@
+9999999999s:568:"a:2:{s:5:"mtime";i:1455174114;s:7:"content";s:514:"<div class="form form-code-login">
+    <form name="formLogin" data-request="{{__SELF__}}::onCodesignin">
+
+        <div class="form-group">
+            <input type="{{ visible ? 'text' : 'password' }}"
+                   name="code"
+                   class="form-control form-control-password"
+                   placeholder="insert code"/>
+        </div>
+{% component 'captcha' %}
+        <div class="submit">
+            <button class="btn" type="submit">{{ button }}</button>
+        </div>
+
+    </form>
+</div>
+";}";

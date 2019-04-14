@@ -1,0 +1,17 @@
+title = "موضوعات انجمن"
+url = "/forum/forum-topic/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumTopic]
+slug = "{{ :slug }}"
+postsPerPage = 20
+memberPage = "forum/forum-member"
+channelPage = "forum/forum-channel"
+==
+<div class="container">
+<div class="sjt-forum-fa">
+    {% component 'forumTopic' %}
+</div></div>

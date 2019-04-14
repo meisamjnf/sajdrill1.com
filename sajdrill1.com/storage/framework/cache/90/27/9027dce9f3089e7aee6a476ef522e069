@@ -1,0 +1,16 @@
+9999999999s:745:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:261:"title = "پرسش و پاسخ"
+url = "/qanda"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[faqDisplayer]
+faqGroup = 2
+injectBootstrapAssets = 1
+==
+<div class="container">
+    {% component 'faqDisplayer' %}
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:20:"پرسش و پاسخ";s:3:"url";s:6:"/qanda";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:1:{s:12:"faqDisplayer";a:2:{s:8:"faqGroup";s:1:"2";s:21:"injectBootstrapAssets";s:1:"1";}}}s:4:"code";N;s:6:"markup";s:67:"<div class="container">
+    {% component 'faqDisplayer' %}
+</div>";}";

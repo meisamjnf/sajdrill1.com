@@ -1,0 +1,22 @@
+logrotate state -- version 2
+"/home/meisam/.cache/upstart/gnome-keyring-ssh.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/hud.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/gpg-agent.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/indicator-printers.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_nautilus.1000.crash.log" 2018-10-27-8:0:0
+"/home/meisam/.cache/upstart/unity7.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/unity-panel-service.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/update-notifier-crash-_var_crash__usr_sbin_aptd.0.crash.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/unity-panel-service-lockscreen.log" 2018-10-26-20:29:19
+"/home/meisam/.cache/upstart/upstart-event-bridge.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/unity-settings-daemon.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/indicator-sound.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_unity-scope-loader.1000.crash.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/at-spi2-registryd.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/update-notifier-release.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/bamfdaemon.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/window-stack-bridge.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/*.log" 2018-10-23-8:0:0
+"/home/meisam/.cache/upstart/indicator-keyboard.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/ssh-agent.log" 2018-10-27-8:4:58
+"/home/meisam/.cache/upstart/dbus.log" 2018-10-27-8:4:58

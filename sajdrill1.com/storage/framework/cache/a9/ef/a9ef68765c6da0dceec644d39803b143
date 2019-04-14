@@ -1,0 +1,13 @@
+9999999999s:521:"a:2:{s:5:"mtime";i:1455174112;s:7:"content";s:467:"<form class="form-inline" method="GET" action="{{ __SELF__.resultPage|page }}">
+    <input type="text" name="search" class="form-control">
+
+    {% if __SELF__.categoryFilter %}
+        <select name="cat[]" class="form-control">
+        {% for key,cat in __SELF__.categories %}
+            <option value="{{ key }}">{{ cat }}</option>
+        {% endfor %}
+        </select>
+    {% endif %}
+
+    <button class="btn btn btn-primary" type="submit">Search</button>
+</form>";}";

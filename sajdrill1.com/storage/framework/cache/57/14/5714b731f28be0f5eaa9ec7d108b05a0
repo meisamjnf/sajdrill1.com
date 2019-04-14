@@ -1,0 +1,23 @@
+9999999999s:922:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:342:"title = "کاربر"
+url = "/forum/forum-member/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumMember]
+slug = "{{ :slug }}"
+viewMode = "view"
+channelPage = 404
+topicPage = 404
+==
+<div class="container">
+	<div class="sjt-forum-fa">
+		{% component 'forumMember' %}
+	</div>
+</div>
+";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:10:"کاربر";s:3:"url";s:25:"/forum/forum-member/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:1:{s:11:"forumMember";a:4:{s:4:"slug";s:11:"{{ :slug }}";s:8:"viewMode";s:4:"view";s:11:"channelPage";s:3:"404";s:9:"topicPage";s:3:"404";}}}s:4:"code";N;s:6:"markup";s:102:"<div class="container">
+	<div class="sjt-forum-fa">
+		{% component 'forumMember' %}
+	</div>
+</div>";}";

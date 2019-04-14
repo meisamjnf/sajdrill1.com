@@ -1,0 +1,17 @@
+title = "کانالهای انجمن"
+url = "/forum/forum-channel/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumChannel]
+slug = "{{ :slug }}"
+memberPage = "forum/forum-member"
+topicPage = "forum/forum-topic"
+==
+<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannel' %}
+    </div>
+</div>

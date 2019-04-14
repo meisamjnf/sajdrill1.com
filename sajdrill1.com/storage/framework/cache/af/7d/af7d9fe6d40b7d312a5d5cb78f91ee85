@@ -1,0 +1,44 @@
+9999999999s:3435:"a:7:{s:5:"mtime";i:1455174115;s:7:"content";s:1092:"        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="pull-left">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="media-body">
+                            <h2>آیا سوالی دارید؟</h2>
+                            <p class="sjt-p-1">ما خوشحال می شویم بتوانیم کمکی به شما نمائیم، هر سوال، پیشنهاد و یا انتقاد شما را به دیده ی منت پذیرائیم، در هر ساعت از شبانه روز می توانید با شماره تلفن <span><a class="sjt-tel-1" tabIndex="-1" href="tel:04134474970"> (+۹۸)۴۱-۳۴۴۷-۴۹۷۰ </a></span> با ما در تماس باشید.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.container-->    
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1078:"<div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="pull-left">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="media-body">
+                            <h2>آیا سوالی دارید؟</h2>
+                            <p class="sjt-p-1">ما خوشحال می شویم بتوانیم کمکی به شما نمائیم، هر سوال، پیشنهاد و یا انتقاد شما را به دیده ی منت پذیرائیم، در هر ساعت از شبانه روز می توانید با شماره تلفن <span><a class="sjt-tel-1" tabIndex="-1" href="tel:04134474970"> (+۹۸)۴۱-۳۴۴۷-۴۹۷۰ </a></span> با ما در تماس باشید.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.container-->";s:13:"parsed-markup";s:1078:"<div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="pull-left">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="media-body">
+                            <h2>آیا سوالی دارید؟</h2>
+                            <p class="sjt-p-1">ما خوشحال می شویم بتوانیم کمکی به شما نمائیم، هر سوال، پیشنهاد و یا انتقاد شما را به دیده ی منت پذیرائیم، در هر ساعت از شبانه روز می توانید با شماره تلفن <span><a class="sjt-tel-1" tabIndex="-1" href="tel:04134474970"> (+۹۸)۴۱-۳۴۴۷-۴۹۷۰ </a></span> با ما در تماس باشید.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.container-->";}";

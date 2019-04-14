@@ -1,0 +1,102 @@
+9999999999s:3068:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:1426:"title = "ساج دریل"
+url = "/"
+layout = "default"
+description = "خانه"
+is_hidden = 0
+meta_description = "Free business HTML theme fromm ShapeBootstrap, converted for OctoberCMS"
+robot_index = "index"
+robot_follow = "follow"
+==
+<section id="main-slider" class="no-margin">
+	{% partial "carousel" %}
+    <a class="prev hidden-xs" href="#main-slider" data-slide="next">
+        <i class="fa fa-chevron-left"></i>
+    </a>
+    <a class="next hidden-xs" href="#main-slider" data-slide="prev">
+        <i class="fa fa-chevron-right"></i>
+    </a>
+</section>
+
+<section id="feature">
+	{% partial "features" %}
+</section>
+
+<section id="recent-works">
+	{% partial "works" %}
+</section>
+
+<section id="services" class="service-item">
+	{% partial "services" %}
+</section>
+
+<section id="middle">
+    <div class="container">
+        <div class="row">
+			{% partial "skills" %}
+			{% partial "accordion" %}
+        </div><!--/.row-->
+    </div><!--/.container-->
+</section><!--/#middle-->
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+			{% partial "tabs" %}
+			{% partial "testimonials" %}
+        </div><!--/.row-->
+    <div><!--/.container-->
+</section><!--/#content-->
+
+<section id="partner">
+	{% partial "partners" %}
+</section><!--/#partner-->
+
+<section id="conatcat-info">
+	{% content "contact-info.htm" %}
+</section><!--/#conatcat-info-->";s:7:"viewBag";a:0:{}s:8:"settings";a:9:{s:5:"title";s:15:"ساج دریل";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:11:"description";s:8:"خانه";s:9:"is_hidden";s:1:"0";s:16:"meta_description";s:71:"Free business HTML theme fromm ShapeBootstrap, converted for OctoberCMS";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1181:"<section id="main-slider" class="no-margin">
+	{% partial "carousel" %}
+    <a class="prev hidden-xs" href="#main-slider" data-slide="next">
+        <i class="fa fa-chevron-left"></i>
+    </a>
+    <a class="next hidden-xs" href="#main-slider" data-slide="prev">
+        <i class="fa fa-chevron-right"></i>
+    </a>
+</section>
+
+<section id="feature">
+	{% partial "features" %}
+</section>
+
+<section id="recent-works">
+	{% partial "works" %}
+</section>
+
+<section id="services" class="service-item">
+	{% partial "services" %}
+</section>
+
+<section id="middle">
+    <div class="container">
+        <div class="row">
+			{% partial "skills" %}
+			{% partial "accordion" %}
+        </div><!--/.row-->
+    </div><!--/.container-->
+</section><!--/#middle-->
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+			{% partial "tabs" %}
+			{% partial "testimonials" %}
+        </div><!--/.row-->
+    <div><!--/.container-->
+</section><!--/#content-->
+
+<section id="partner">
+	{% partial "partners" %}
+</section><!--/#partner-->
+
+<section id="conatcat-info">
+	{% content "contact-info.htm" %}
+</section><!--/#conatcat-info-->";}";

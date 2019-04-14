@@ -1,0 +1,18 @@
+9999999999s:605:"a:2:{s:5:"mtime";i:1455174112;s:7:"content";s:551:"<div class="rainlab-forum">
+    <h5>
+        {{ member.username }}
+    </h5>
+    <p>
+        <img src="{{ member.user.avatarThumb(50) }}" />
+    </p>
+    <p>کاربر از تاریخ :{{ member.created_at|date('M Y') }}</p>
+    {% if member.is_banned %}
+        <p>{{ member.username }}از ارسال پست محروم شده است.</p>
+    {% endif %}
+    {% if member.is_moderator %}
+        <p>{{ member.username }} یک مدیر انجمن است.</p>
+    {% endif %}
+
+    <h4>آخرین پست ها</h4>
+    {% partial '@recentposts' %}
+</div>";}";

@@ -1,0 +1,683 @@
+[3443:3443:1027/080901.183743:ERROR:sandbox_linux.cc(379)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3397:3397:1027/080919.498424:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+[3397:3418:1027/080939.300809:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/080939.500696:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081116.349536:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+[3397:3418:1027/081130.054522:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081130.067564:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081130.068476:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081130.203563:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081130.225640:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081130.226684:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081155.562407:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081155.694750:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081200.961814:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081201.080948:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081441.965682:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081441.965827:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081441.980436:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081442.111804:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081442.112049:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/081442.126870:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3443:3443:1027/081748.318220:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x1efb02abce00]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[3443:3443:1027/082547.808952:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082547.812681:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+ERROR 2018-10-27 08:25:48 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2018-10-27 08:25:48 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2018-10-27 08:25:48 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+[3443:3443:1027/082548.688428:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082548.696836:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082549.693652:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082549.697017:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082550.694032:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/082550.697258:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3397:3418:1027/083625.574423:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/083625.694346:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.701044:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.731153:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.731645:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.891328:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.914087:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/084711.914324:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/085457.070832:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/085457.213543:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3443:3443:1027/091453.117418:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.128774:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.129839:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.145523:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.162064:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.178614:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.181267:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.195876:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.197291:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.264444:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.318927:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.334002:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.349038:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091453.626792:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091454.223562:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091454.228642:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091454.825147:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091454.829344:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091455.424350:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091455.428946:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091456.024966:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091456.028701:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091456.624746:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091456.628421:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091457.224663:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091457.229326:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091457.824469:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091457.829118:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091458.425200:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091458.428990:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091459.024866:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091459.028931:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091459.624761:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091459.628487:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091500.225221:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091500.228894:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091500.245407:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091500.825217:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091500.829148:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091501.425287:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091501.428808:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091501.445176:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091502.024417:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091502.028902:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091502.624974:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091502.628637:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091503.224993:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091503.229047:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091503.825199:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091503.828667:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091504.425271:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091504.428249:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091505.024904:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091505.027997:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091505.624995:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091505.628933:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091506.223783:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091506.228525:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091506.824999:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091506.828825:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091507.424653:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091507.428466:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091508.025190:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091508.028002:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091508.624756:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091508.628542:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091509.224599:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091509.228257:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091509.824951:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091509.828641:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091510.424964:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091510.428600:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091511.024788:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091511.028599:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091511.628380:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091511.645214:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091512.225118:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091512.227996:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091512.824977:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091512.827670:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091513.424847:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091513.427626:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091514.024777:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091514.028526:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091514.625035:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091514.628182:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091515.224660:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091515.228305:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091515.824842:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091515.828441:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091516.424982:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091516.427825:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091517.024666:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091517.028427:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091517.625208:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091517.628103:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091518.225005:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091518.227960:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091518.825074:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091518.827993:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091519.423303:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091519.427922:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091520.024961:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091520.028078:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091520.625029:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091520.627553:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091521.224905:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091521.227738:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091521.824992:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091521.827806:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091522.424803:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091522.427577:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091523.025247:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091523.028039:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091523.625581:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091523.627296:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091524.225065:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091524.227976:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091524.824908:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091524.827491:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091525.424944:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091525.427667:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091526.024894:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091526.027831:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091526.624896:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091526.627598:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091527.224995:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091527.227830:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091527.824831:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091527.827837:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091528.425537:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091528.427216:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091529.024900:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091529.027769:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091529.624989:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091529.627741:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091530.224806:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091530.227753:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091530.824625:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091530.827302:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091531.424760:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091531.427498:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091532.024909:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091532.027639:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091532.625110:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091532.627789:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091533.224999:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091533.227819:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091533.824384:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091533.826961:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091534.424733:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091534.427161:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091535.024721:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091535.027474:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091535.625117:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091535.626816:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091536.224820:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091536.227621:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091536.825025:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091536.826667:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091537.424950:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091537.426754:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091538.025282:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091538.026996:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091538.624929:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091538.626868:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091539.225060:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091539.227097:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091539.824808:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091539.827594:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091540.424933:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091540.426862:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091541.025366:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091541.027061:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091541.628111:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091541.643589:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091542.224779:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091542.226708:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091542.825140:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091542.826667:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091543.424747:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091543.426621:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091544.024650:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091544.026325:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091544.625110:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091544.626770:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091545.224963:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091545.226692:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091545.825214:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091545.826910:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091546.424936:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091546.426850:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091547.024515:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091547.027276:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091547.625240:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091547.627065:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091548.225089:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091548.226775:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091548.825059:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091548.826942:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091549.422664:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091549.426097:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091550.024822:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091550.027128:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091550.625373:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091550.626909:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091551.224901:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091551.226904:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091551.824995:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091551.826828:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091552.425205:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091552.426985:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091553.024936:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091553.026588:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091553.624889:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091553.626832:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091554.225176:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091554.226861:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091554.825256:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091554.826881:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091555.424880:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091555.426708:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091556.024947:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091556.026883:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091556.624604:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091556.626162:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091557.224155:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091557.226878:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091557.824636:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091557.826526:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091558.425267:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091558.443084:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091559.024629:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091559.026507:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091559.624830:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091559.626572:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091600.225173:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091600.242828:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091600.824802:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091600.826567:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091601.422928:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091601.426497:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091602.024712:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091602.026265:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091602.625038:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091602.642856:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091603.225157:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091603.242973:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091603.823954:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091603.825731:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091604.425199:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091604.442904:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091605.024963:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091605.042744:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091605.625159:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091605.642834:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091606.224902:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091606.242694:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091606.825215:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091606.843070:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091607.425134:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091607.442994:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091608.025138:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091608.042430:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091608.624862:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091608.642677:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091609.224730:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091609.226483:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091609.824857:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091609.842646:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091610.425218:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091610.441930:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091611.024691:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091611.042586:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091611.628282:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091611.642205:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091612.224876:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091612.242953:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091612.824900:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091612.842621:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091613.424639:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091613.426212:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091614.024303:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091614.025793:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091614.624977:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091614.642152:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091615.224714:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091615.225055:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091615.242804:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091615.824865:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091615.842802:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091616.425388:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091616.441981:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091617.024995:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091617.041908:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091617.624803:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091617.642575:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091618.225277:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091618.242001:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091618.824990:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091618.841750:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091619.424851:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091619.442695:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091620.025216:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091620.041880:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091620.624680:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091620.642617:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091621.224963:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091621.242028:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091621.825010:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091621.841871:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091622.425129:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091622.441996:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091623.024777:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091623.042509:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091623.625046:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091623.641789:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091624.224589:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091624.242339:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091624.825212:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091624.842001:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091625.424758:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091625.441687:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091626.024407:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091626.042375:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091626.624614:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091626.641466:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091627.224091:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091627.225735:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091627.825129:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091627.841960:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091628.424376:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091628.442035:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091629.025396:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091629.042194:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091629.624538:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091629.642140:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091630.224860:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091630.241619:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091630.824749:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091630.841784:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091631.424692:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091631.441639:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091632.024940:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091632.041684:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091632.624537:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091632.641352:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091633.225350:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091633.241438:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091633.824541:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091633.841149:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091634.425377:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091634.441843:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091635.024454:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091635.041212:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091635.624655:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091635.642100:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091636.224823:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091636.241647:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091636.825019:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091636.841253:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091637.425067:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091637.441604:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091638.024694:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091638.041420:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091638.624980:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091638.640939:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091639.224609:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091639.241462:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091639.825164:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091639.841040:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091640.424741:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091640.441697:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091641.024794:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091641.041410:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091641.628451:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091641.641611:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091642.224999:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091642.240793:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091642.824987:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091642.841838:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091643.424969:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091643.440790:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091644.025012:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091644.040893:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091644.624810:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091644.640804:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091645.224327:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091645.240988:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091645.825162:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091645.840923:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091646.425155:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091646.440947:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091647.024490:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091647.041284:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091647.625352:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091647.641166:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091648.224654:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091648.241336:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091648.824835:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091648.840834:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091649.424732:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091649.440890:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091650.024808:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091650.040573:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091650.624692:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091650.640831:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091651.225185:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091651.241002:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091651.825066:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091651.841138:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091652.425302:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091652.441009:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091653.024436:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091653.041140:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091653.625013:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091653.640810:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091654.224492:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091654.241205:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091654.825192:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091654.840881:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091655.424631:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091655.440346:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091656.024751:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091656.040475:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091656.625254:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091656.641104:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091657.225046:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091657.240808:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091657.824623:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091657.840412:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091658.425436:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091658.440227:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091659.024781:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091659.040490:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091659.625381:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091659.640253:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091700.224224:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091700.240901:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091700.824773:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091700.840484:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091701.424455:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091701.440061:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091702.024875:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091702.040838:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091702.625077:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091702.640762:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091703.223995:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091703.240839:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091703.824688:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091703.840420:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091704.424985:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091704.440847:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091705.024806:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091705.040546:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091705.624650:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091705.640212:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091706.224905:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091706.240773:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091706.824696:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091706.840587:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091707.424379:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091707.440044:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091708.025157:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091708.039793:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091708.625114:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+[3443:3443:1027/091708.639940:ERROR:gl_surface_presentation_helper.cc(237)] GetVSyncParametersIfAvailable() failed!
+WARN  2018-10-27 09:19:58 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2018-10-27 09:19:58 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon application-sql application-x-generic at size 64
+WARN  2018-10-27 09:20:06 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon application-sql application-x-generic at size 64
+[3397:3418:1027/092437.406773:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092437.542654:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092450.086951:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092450.236687:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092501.598169:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092501.742490:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092504.940395:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092505.093562:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092826.992388:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/092827.110331:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/094000.416188:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/094000.543192:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/100520.776805:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/100520.905583:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/100641.678494:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/100641.810971:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/104626.366940:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/104626.737908:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+(nautilus:20031): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:20031): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:20031): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:20031): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:20031): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[3397:3418:1027/110533.754245:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110533.754401:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110533.754469:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110533.913172:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110533.928262:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110533.931140:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110540.011115:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110540.034231:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110540.153234:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110540.169364:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.658200:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.681448:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.681797:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.838034:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.850249:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110543.859112:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110622.408577:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110622.514709:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110622.553372:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110622.650558:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110623.046630:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110623.433951:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110624.458361:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/110624.603346:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/112443.610490:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/112443.730192:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113159.453951:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113159.577132:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113200.133901:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113200.261840:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113204.080991:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113205.507837:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113205.641859:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113232.204853:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113232.351959:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113232.702642:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113233.091120:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113319.471041:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113319.471208:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113319.594011:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/113319.602935:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/121027.458420:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/121027.580799:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/121926.605346:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/121926.727724:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122043.813271:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122044.566103:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122044.688187:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.021460:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.035320:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.035480:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.141439:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.160967:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/122921.161122:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+WARN  2018-10-27 12:39:54 unity.iconloader IconLoader.cpp:264 Unable to load icon . GThemedIcon application-sql application-x-generic at size 64
+[3397:3418:1027/125939.629596:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3418:1027/125939.766412:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[3397:3397:1027/130758.996589:ERROR:http_bridge.cc(126)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+[24813:24813:1027/131208.577176:ERROR:sandbox_linux.cc(379)] InitializeSandbox() called with multiple threads in process gpu-process.
+[24772:24772:1027/131211.622843:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+[24772:24789:1027/131253.002340:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131253.023800:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131253.159797:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131253.160892:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131253.625728:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131254.023200:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131254.632800:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/131254.782897:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+(nautilus:25033): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:25033): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:25033): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:25033): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:25033): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[24813:24813:1027/133003.338791:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e852c35000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/133003.593854:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e85228f100]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/133003.853330:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e85228f800]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/133237.180820:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e85265f000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/133239.235061:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e84fa38500]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/133239.848593:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e84fa3a800]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24772:24789:1027/133725.575473:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -21
+[24813:24813:1027/134402.395816:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e852660500]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/134402.718653:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e85228f800]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24813:24813:1027/134403.070912:ERROR:buffer_manager.cc(491)] [.BrowserCompositor-0x25e85228f100]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+(nautilus:32493): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:32493): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:32493): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:32493): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:32493): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[24772:24789:1027/144432.238981:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/144434.292765:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/144434.409873:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.693740:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.693898:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.728803:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.809850:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.817985:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145022.845875:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145835.056472:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/145835.183490:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24813:24813:1027/150616.424767:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.425119:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.425393:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.425523:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.425611:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.425657:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.425854:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.426045:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.426153:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.426233:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.426302:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.426339:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.426378:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.426410:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24813:24813:1027/150616.426466:ERROR:gles2_cmd_decoder.cc(17797)] [.BrowserCompositor-0x25e84fa37000]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[24813:24813:1027/150616.426497:ERROR:gles2_cmd_decoder.cc(10209)] [.BrowserCompositor-0x25e84fa37000]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[24772:24789:1027/151653.446653:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/151653.575848:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/152633.617988:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/153422.123134:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/153422.241083:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/153816.979412:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24772:24789:1027/153817.649584:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+(nautilus:14791): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:14791): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:14791): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:14791): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:14791): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed

@@ -1,0 +1,162 @@
+9999999999s:9109:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:4479:"	   <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>خدمات</h2>
+                <p class="lead">فروش تجهیزات تنها قسمت کوچکی از فعالیتهای  ماست و ویژ گی اصلی ما تعهد به خدماتی است که ما را از دیگران متمایز می نماید.</p>
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services1.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">مشاوره</h3>
+                            <p>مشاوره فنی جهت راهنمایی شده برای بودجه ریزی متوازن پروژه هایتان</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services2.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">همیشه به موقع</h3>
+                            <p>همیشه مشتریان در اولویت  هستند  روی ما می توانید حساب کنید</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services3.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">نگهداری</h3>
+                            <p>توانایی تعمیر  و تعویض قطعات تمام تجهیزات فروخته شده</p>
+                        </div>
+                    </div>
+                </div>  
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services4.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">آموزش</h3>
+                            <p>آموزش به کارگیری و نگهداری تجهیزات و صدور گواهی نامه</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services5.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">همیشه در دسترس</h3>
+                            <p>استفاده از تمامی امکانات موجود برای ارتباط دو طرفه مستمر</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services6.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">پشتیبانی</h3>
+                            <p>در هر کجای کشور که باشید دانش فنی و تجهیزات ما در اختیار شماست</p>
+                        </div>
+                    </div>
+                </div>                                                
+            </div><!--/.row-->
+        </div><!--/.container-->
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:4474:"<div class="container">
+            <div class="center wow fadeInDown">
+                <h2>خدمات</h2>
+                <p class="lead">فروش تجهیزات تنها قسمت کوچکی از فعالیتهای  ماست و ویژ گی اصلی ما تعهد به خدماتی است که ما را از دیگران متمایز می نماید.</p>
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services1.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">مشاوره</h3>
+                            <p>مشاوره فنی جهت راهنمایی شده برای بودجه ریزی متوازن پروژه هایتان</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services2.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">همیشه به موقع</h3>
+                            <p>همیشه مشتریان در اولویت  هستند  روی ما می توانید حساب کنید</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services3.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">نگهداری</h3>
+                            <p>توانایی تعمیر  و تعویض قطعات تمام تجهیزات فروخته شده</p>
+                        </div>
+                    </div>
+                </div>  
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services4.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">آموزش</h3>
+                            <p>آموزش به کارگیری و نگهداری تجهیزات و صدور گواهی نامه</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services5.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">همیشه در دسترس</h3>
+                            <p>استفاده از تمامی امکانات موجود برای ارتباط دو طرفه مستمر</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-4">
+                    <div class="media services-wrap wow fadeInDown">
+                        <div class="pull-right">
+                            <img class="img-responsive" src="{{ 'assets/images/services/services6.png'|theme }}">
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">پشتیبانی</h3>
+                            <p>در هر کجای کشور که باشید دانش فنی و تجهیزات ما در اختیار شماست</p>
+                        </div>
+                    </div>
+                </div>                                                
+            </div><!--/.row-->
+        </div><!--/.container-->";}";

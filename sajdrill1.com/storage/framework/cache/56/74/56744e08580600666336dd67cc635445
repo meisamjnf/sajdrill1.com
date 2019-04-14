@@ -1,0 +1,32 @@
+9999999999s:1378:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:517:"title = "لوازم یدکی"
+url = "/products/spare-parts"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[gallery]
+idGallery = 1
+lang = "Gallery"
+jqueryinject = "yes"
+thumbnail = "true"
+caption = "true"
+desc = "true"
+counter = "true"
+controls = "true"
+preload = 1
+mode = "slide"
+speed = 500
+loop = "true"
+auto = "false"
+pause = 2000
+escKey = "true"
+height = 70
+width = 100
+resizer = "auto"
+==
+<div class="container">
+    {% component 'gallery' %}
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:19:"لوازم یدکی";s:3:"url";s:21:"/products/spare-parts";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:1:{s:7:"gallery";a:18:{s:9:"idGallery";s:1:"1";s:4:"lang";s:7:"Gallery";s:12:"jqueryinject";s:3:"yes";s:9:"thumbnail";s:4:"true";s:7:"caption";s:4:"true";s:4:"desc";s:4:"true";s:7:"counter";s:4:"true";s:8:"controls";s:4:"true";s:7:"preload";s:1:"1";s:4:"mode";s:5:"slide";s:5:"speed";s:3:"500";s:4:"loop";s:4:"true";s:4:"auto";s:5:"false";s:5:"pause";s:4:"2000";s:6:"escKey";s:4:"true";s:6:"height";s:2:"70";s:5:"width";s:3:"100";s:7:"resizer";s:4:"auto";}}}s:4:"code";N;s:6:"markup";s:62:"<div class="container">
+    {% component 'gallery' %}
+</div>";}";

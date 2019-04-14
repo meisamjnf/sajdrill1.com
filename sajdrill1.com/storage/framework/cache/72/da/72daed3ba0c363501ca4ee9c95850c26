@@ -1,0 +1,28 @@
+9999999999s:1248:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:483:"title = "جستجوی برچسب"
+url = "/blog/blog-tag-search/:tag"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[searchPosts]
+slug = "{{ :tag }}"
+pageNumber = "{{ :page }}"
+postsPerPage = 10
+postPage = "blog/blog-item"
+sortOrder = "published_at desc"
+
+[tags]
+results = 10
+sortOrder = "created_at desc"
+emptyTag = 1
+==
+<div class="container">
+    {% component 'searchPosts' %}
+    <hr/>
+    {% component 'tags' %}    
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:23:"جستجوی برچسب";s:3:"url";s:26:"/blog/blog-tag-search/:tag";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:2:{s:11:"searchPosts";a:5:{s:4:"slug";s:10:"{{ :tag }}";s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:2:"10";s:8:"postPage";s:14:"blog/blog-item";s:9:"sortOrder";s:17:"published_at desc";}s:4:"tags";a:3:{s:7:"results";s:2:"10";s:9:"sortOrder";s:15:"created_at desc";s:8:"emptyTag";s:1:"1";}}}s:4:"code";N;s:6:"markup";s:109:"<div class="container">
+    {% component 'searchPosts' %}
+    <hr/>
+    {% component 'tags' %}    
+</div>";}";

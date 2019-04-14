@@ -1,0 +1,24 @@
+title = "جستجوی برچسب"
+url = "/blog/blog-tag-search/:tag"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[searchPosts]
+slug = "{{ :tag }}"
+pageNumber = "{{ :page }}"
+postsPerPage = 10
+postPage = "blog/blog-item"
+sortOrder = "published_at desc"
+
+[tags]
+results = 10
+sortOrder = "created_at desc"
+emptyTag = 1
+==
+<div class="container">
+    {% component 'searchPosts' %}
+    <hr/>
+    {% component 'tags' %}    
+</div>

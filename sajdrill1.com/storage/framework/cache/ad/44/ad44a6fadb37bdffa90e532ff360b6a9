@@ -1,0 +1,88 @@
+9999999999s:4963:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:2412:"                <div class="col-sm-6 wow fadeInDown">
+                    <div class="skill">
+                        <h2>مهارت های ما</h2>
+                        <p>تیمی مرکب از افراد با تجربه و دانش آکادمیک در خدمت ماموریت و چشم انداز شرکت</p>
+
+                        <div class="progress-wrap">
+                            <h3>تامین، راه اندازی  و تعمیر ماشین آلات</h3>
+                            <div class="progress">
+                              <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
+                                <span class="bar-width">85%</span>
+                              </div>
+
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>زمین شناسی و اکتشاف</h3>
+                            <div class="progress">
+                              <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                               <span class="bar-width">95%</span>
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>بهره برداری</h3>
+                            <div class="progress">
+                              <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                <span class="bar-width">80%</span>
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>بازار یابی</h3>
+                            <div class="progress">
+                              <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                                <span class="bar-width">90%</span>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--/.col-sm-6-->
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:2395:"<div class="col-sm-6 wow fadeInDown">
+                    <div class="skill">
+                        <h2>مهارت های ما</h2>
+                        <p>تیمی مرکب از افراد با تجربه و دانش آکادمیک در خدمت ماموریت و چشم انداز شرکت</p>
+
+                        <div class="progress-wrap">
+                            <h3>تامین، راه اندازی  و تعمیر ماشین آلات</h3>
+                            <div class="progress">
+                              <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
+                                <span class="bar-width">85%</span>
+                              </div>
+
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>زمین شناسی و اکتشاف</h3>
+                            <div class="progress">
+                              <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                               <span class="bar-width">95%</span>
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>بهره برداری</h3>
+                            <div class="progress">
+                              <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                <span class="bar-width">80%</span>
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3>بازار یابی</h3>
+                            <div class="progress">
+                              <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+                                <span class="bar-width">90%</span>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--/.col-sm-6-->";}";

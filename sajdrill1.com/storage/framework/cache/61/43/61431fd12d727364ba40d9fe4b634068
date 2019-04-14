@@ -1,0 +1,44 @@
+9999999999s:1853:"a:2:{s:5:"mtime";i:1455174112;s:7:"content";s:1798:"<table class="forum-table">
+    <tr>
+        <th colspan="2">تاپیک</th>
+        <th class="counter-column">پاسخ ها</th>
+        <th class="counter-column">بازدید</th>
+        <th class="activity-column">آخرین پاسخ</th>
+    </tr>
+
+    {% for topic in topics %}
+        <tr class="forum-topic">
+            <td class="indicator-column">
+                <div class="topic-indicator {{ member and topic.hasNew ? 'has-new' }}"></div>
+            </td>
+            <td>
+                <h5>
+                    {% if topic.is_sticky %}<strong>Sticky:</strong>{% endif %}
+                    {% if topic.is_locked %}<i class="icon icon-lock"></i> <strong>Locked:</strong>{% endif %}
+                    <a href="{{ topic.url }}">{{ topic.subject }}</a>
+                </h5>
+            </td>
+            <td class="counter-column">
+                <p>{{ n2f(topic.count_posts) }}</p>
+            </td>
+            <td class="counter-column">
+                <p>{{ n2f(topic.count_views) }}</p>
+            </td>
+            <td class="activity-column">
+                <p>
+                    <small>
+                        <a href="{{ topic.url }}?page=last#post-{{ topic.last_post_id }}">{{ n2f(topic.last_post_at.diffForHumans) }}</a> توسط
+                    </small>
+                    <a href="{{ topic.last_post_member.url }}">{{ topic.last_post_member.username }}</a>
+                    <img src="{{ topic.last_post_member.user.avatarThumb(24) }}" class="member-avatar" />
+                </p>
+            </td>
+        </tr>
+    {% endfor %}
+
+    {% if not topics|length %}
+        <tr>
+            <td colspan="100">در این کانال، تاپیکی وجود ندارد.</td>
+        </tr>
+    {% endif %}
+</table>";}";

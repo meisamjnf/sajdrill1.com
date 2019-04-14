@@ -1,0 +1,16 @@
+<div class="form form-code-login">
+    <form name="formLogin" data-request="{{__SELF__}}::onCodesignin">
+
+        <div class="form-group">
+            <input type="{{ visible ? 'text' : 'password' }}"
+                   name="code"
+                   class="form-control form-control-password"
+                   placeholder="insert code"/>
+        </div>
+{% component 'captcha' %}
+        <div class="submit">
+            <button class="btn" type="submit">{{ button }}</button>
+        </div>
+
+    </form>
+</div>

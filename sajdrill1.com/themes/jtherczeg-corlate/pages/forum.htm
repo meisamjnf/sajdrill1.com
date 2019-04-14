@@ -1,0 +1,17 @@
+title = "انجمن"
+url = "/forum"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumChannels]
+memberPage = "forum/forum-member"
+channelPage = "forum/forum-channel"
+topicPage = "forum/forum-topic"
+==
+<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannels' %}
+    </div>
+</div>

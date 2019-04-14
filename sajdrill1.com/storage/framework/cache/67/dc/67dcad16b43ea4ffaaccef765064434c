@@ -1,0 +1,21 @@
+9999999999s:1001:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:385:"title = "کانالهای انجمن"
+url = "/forum/forum-channel/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[forumChannel]
+slug = "{{ :slug }}"
+memberPage = "forum/forum-member"
+topicPage = "forum/forum-topic"
+==
+<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannel' %}
+    </div>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:27:"کانالهای انجمن";s:3:"url";s:26:"/forum/forum-channel/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:1:{s:12:"forumChannel";a:3:{s:4:"slug";s:11:"{{ :slug }}";s:10:"memberPage";s:18:"forum/forum-member";s:9:"topicPage";s:17:"forum/forum-topic";}}}s:4:"code";N;s:6:"markup";s:115:"<div class="container">
+    <div class="sjt-forum-fa">
+        {% component 'forumChannel' %}
+    </div>
+</div>";}";

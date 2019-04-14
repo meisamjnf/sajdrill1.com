@@ -1,0 +1,460 @@
+9999999999s:27397:"a:6:{s:5:"mtime";i:1455174115;s:7:"content";s:13613:"title = "درباره ما"
+url = "/company/about-us"
+layout = "default"
+==
+    <section id="about-us">
+        <div class="container">
+			<div class="center wow fadeInDown">
+				<h2>درباره ساج دریل</h2>
+				<p class="lead">مفتخريم كه براي نخستين بار در كشور دستگاه كرگيري و حفاري قابل حمل با نام ساج دريل را معرفي نماييم تا قدم كوچكي در بالا بردن راندمان و سهولت نمونه برداري  هاي معدني كه پيش از اين با هزينه بالا انجام مي گرفت و ريسك فعاليت در اكتشافات معدني را افزايش مي داد ،  برداشته باشيم. اين دستگاه  ساخت و طراحي كشور  ايالات متحده آمريكا بوده و به عنوان يك اختراع و طرح ابتكاري توسط يك متخصص زمين شناسي ثبت و اكنون به صورت تجاري در اختيار صاحبان صنايع و فعاليت هاي معدني و متخصصان قرار گرفته است . شركت سرمايه گذاري الماس جانفشان با اخذ نمايندگي  اين دستگاه اجازه توزيع انحصاري  آن را در ايران در اختيار دارد و وظيفه پشتياني و تامين قطعات را بر عهده خواهد داشت.
+اين دستگاه در طول سال هايي كه عرضه شده با تغييرات و بهبودهايي همرا بوده و همچنان نيز به دليل باور شركت توليد كننده، ادامه دارد ، اكنون نمونه برداري در سه قطر مختلف امكان پذير است و ابزارهاي جديدي جهت توسعه امكانات به  آن افزوده شده است. تمام قطعات از آلياژهاي  مقاومم و سبك ساخته شده است تا هدف اصلي دستگاه كه قابل حمل بودن است را فراهم نمايد. دستگاه از يك موتور بنزين سوز ساخت ژاپن با مصرف بسيار كم  0.4 ليتر در ساعت تشكيل شده است كه با وزن و كاربري ساده حفاري  و نمونه برداري را براي همه امكان پذير نموده است.</p>
+			</div>
+			
+			<!-- about us slider -->
+			<div id="about-slider">
+				<div id="carousel-slider" class="carousel slide" data-ride="carousel">
+					<!-- Indicators -->
+				  	<ol class="carousel-indicators visible-xs">
+					    <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+					    <li data-target="#carousel-slider" data-slide-to="1"></li>
+					    <li data-target="#carousel-slider" data-slide-to="2"></li>
+				  	</ol>
+
+					<div class="carousel-inner">
+						<div class="item active">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div>
+					   <div class="item">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div> 
+					   <div class="item">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div> 
+					</div>
+					
+					<a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
+						<i class="fa fa-angle-left"></i> 
+					</a>
+					
+					<a class=" right carousel-control hidden-xs"href="#carousel-slider" data-slide="next">
+						<i class="fa fa-angle-right"></i> 
+					</a>
+				</div> <!--/#carousel-slider-->
+			</div><!--/#about-slider-->
+			
+			
+			<!-- Our Skill -->
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<h2>مهارت های ما</h2>
+					<p class="lead">تیمی مرکب از افراد با تجربه و دانش آکادمیک در خدمت ماموریت و چشم انداز شرکت</p>
+				</div>
+				
+				<div class="row">
+		
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>85%</em></p>
+								<p>تامین، راه اندازی  و تعمیر ماشین آلات</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>95%</em></p>
+								<p>زمین شناسی و اکتشاف</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>80%</em></p>
+								<p>بهره برداری</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+							<div class="wp-skill">
+								<p><em>90%</em></p>
+								<p>بازار یابی</p>                                     
+							</div>
+						</div>
+					</div>
+					
+				</div>
+	
+            </div><!--/.our-skill-->
+			
+
+			<!-- our-team -->
+			<div class="team">
+				<div class="center wow fadeInDown">
+					<h2>تیم ساج دریل</h2>
+					<p class="lead">اعضای اصلی شرکت و تخصص های هر کدام</p>
+				</div>
+
+				<div class="row clearfix">
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man1.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مجتبی جانفشان</h4>
+									<h5>موسس و مدیر عامل</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">مهندسی برق و کنترل</a></li>
+										<li class="btn"><a href="#">مدیریت ارشد استراتژی</a></li>
+										<li class="btn"><a href="#">بازاریابی</a></li>
+										<li class="btn"><a href="#">بازرگانی</a></li>
+									</ul>
+									
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مجتبی در سال 1383 در جشنواه جوان خوارزمی موفق به کسب رتبه دوم کشوری در رشته نرم افزار شد، مقطع کارشناسی را در رشته مهندسی برق گرایش کنترل به پایان رساند و در رشته مدیریت MBA گرایش استراتژی در مقطع کارشناسی ارشد ادامه تحصیل داد، در سال 1390 گروه فنی مهندسی ساج و با برند ساجدریل را جهت تامین، توسعه دستگاه های کرگیری قابل حمل به عنوان بخشی از شرکت سرمایه گذاری الماس جانفشان تاسیس نمود.</p>
+						</div>
+					</div><!--/.col-lg-4 -->
+					
+					
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man2.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مقصود جانفشان</h4>
+									<h5>موسس و رئیس هیئت مدیره</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">زمین شناسی</a></li>
+										<li class="btn"><a href="#">اکتشاف معدن</a></li>
+										<li class="btn"><a href="#">بهره برداری معدن</a></li>
+										<li class="btn"><a href="#">مدیریت اجرایی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مقصود در سال 1385 بعد از 25 سال خدمت در وزارت صنعت، معدن و تجارت به عنوان رئیس بخش اکتشاف استان آذربایجان شرقی بازنشسته شد و به عنوان کارشناس پایه ارشد در زمینه اکتشاف به فعالیت های خود خارج از محدوده اداری ادامه داد، در ادامه با شرکت مهراصل جهت اکتشافات پلی متال همکاری نمود و چندین معدن راکد در استان را به مرحله بهره برداری رساند.</p>
+						</div>
+					</div><!--/.col-lg-4 -->					
+				</div> <!--/.row -->
+				<div class="row team-bar">
+					<div class="first-one-arrow hidden-xs">
+						<hr>
+					</div>
+					<div class="first-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="second-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+					<div class="third-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="fourth-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+				</div> <!--skill_border-->       
+
+				<div class="row clearfix">   
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man3.jpg'|theme }}" alt=""></a>
+								</div>
+
+								<div class="media-body">
+									<h4>مجتبی جانفشان</h4>
+									<h5>موسس و مدیر عامل</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">مهندسی برق و کنترل</a></li>
+										<li class="btn"><a href="#">مدیریت ارشد استراتژی</a></li>
+										<li class="btn"><a href="#">بازاریابی</a></li>
+										<li class="btn"><a href="#">بازرگانی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مجتبی در سال 1383 در جشنواه جوان خوارزمی موفق به کسب رتبه دوم کشوری در رشته نرم افزار شد، مقطع کارشناسی را در رشته مهندسی برق گرایش کنترل به پایان رساند و در رشته مدیریت MBA گرایش استراتژی در مقطع کارشناسی ارشد ادامه تحصیل داد، در سال 1390 گروه فنی مهندسی ساج و با برند ساجدریل را جهت تامین، توسعه دستگاه های کرگیری قابل حمل به عنوان بخشی از شرکت سرمایه گذاری الماس جانفشان تاسیس نمود.</p>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-md-offset-2">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man4.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مقصود جانفشان</h4>
+									<h5>موسس و رئیس هیئت مدیره</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">زمین شناسی</a></li>
+										<li class="btn"><a href="#">اکتشاف معدن</a></li>
+										<li class="btn"><a href="#">بهره برداری معدن</a></li>
+										<li class="btn"><a href="#">مدیریت اجرایی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مقصود در سال 1385 بعد از 25 سال خدمت در وزارت صنعت، معدن و تجارت به عنوان رئیس بخش اکتشاف استان آذربایجان شرقی بازنشسته شد و به عنوان کارشناس پایه ارشد در زمینه اکتشاف به فعالیت های خود خارج از محدوده اداری ادامه داد، در ادامه با شرکت مهراصل جهت اکتشافات پلی متال همکاری نمود و چندین معدن راکد در استان را به مرحله بهره برداری رساند.</p>
+						</div>
+					</div>
+				</div>	<!--/.row-->
+			</div><!--section-->
+		</div><!--/.container-->
+    </section><!--/about-us-->
+";s:7:"viewBag";a:0:{}s:8:"settings";a:4:{s:5:"title";s:17:"درباره ما";s:3:"url";s:17:"/company/about-us";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:13527:"<section id="about-us">
+        <div class="container">
+			<div class="center wow fadeInDown">
+				<h2>درباره ساج دریل</h2>
+				<p class="lead">مفتخريم كه براي نخستين بار در كشور دستگاه كرگيري و حفاري قابل حمل با نام ساج دريل را معرفي نماييم تا قدم كوچكي در بالا بردن راندمان و سهولت نمونه برداري  هاي معدني كه پيش از اين با هزينه بالا انجام مي گرفت و ريسك فعاليت در اكتشافات معدني را افزايش مي داد ،  برداشته باشيم. اين دستگاه  ساخت و طراحي كشور  ايالات متحده آمريكا بوده و به عنوان يك اختراع و طرح ابتكاري توسط يك متخصص زمين شناسي ثبت و اكنون به صورت تجاري در اختيار صاحبان صنايع و فعاليت هاي معدني و متخصصان قرار گرفته است . شركت سرمايه گذاري الماس جانفشان با اخذ نمايندگي  اين دستگاه اجازه توزيع انحصاري  آن را در ايران در اختيار دارد و وظيفه پشتياني و تامين قطعات را بر عهده خواهد داشت.
+اين دستگاه در طول سال هايي كه عرضه شده با تغييرات و بهبودهايي همرا بوده و همچنان نيز به دليل باور شركت توليد كننده، ادامه دارد ، اكنون نمونه برداري در سه قطر مختلف امكان پذير است و ابزارهاي جديدي جهت توسعه امكانات به  آن افزوده شده است. تمام قطعات از آلياژهاي  مقاومم و سبك ساخته شده است تا هدف اصلي دستگاه كه قابل حمل بودن است را فراهم نمايد. دستگاه از يك موتور بنزين سوز ساخت ژاپن با مصرف بسيار كم  0.4 ليتر در ساعت تشكيل شده است كه با وزن و كاربري ساده حفاري  و نمونه برداري را براي همه امكان پذير نموده است.</p>
+			</div>
+			
+			<!-- about us slider -->
+			<div id="about-slider">
+				<div id="carousel-slider" class="carousel slide" data-ride="carousel">
+					<!-- Indicators -->
+				  	<ol class="carousel-indicators visible-xs">
+					    <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+					    <li data-target="#carousel-slider" data-slide-to="1"></li>
+					    <li data-target="#carousel-slider" data-slide-to="2"></li>
+				  	</ol>
+
+					<div class="carousel-inner">
+						<div class="item active">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div>
+					   <div class="item">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div> 
+					   <div class="item">
+							<img src="{{ 'assets/images/slider_one.jpg'|theme }}" class="img-responsive" alt=""> 
+					   </div> 
+					</div>
+					
+					<a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
+						<i class="fa fa-angle-left"></i> 
+					</a>
+					
+					<a class=" right carousel-control hidden-xs"href="#carousel-slider" data-slide="next">
+						<i class="fa fa-angle-right"></i> 
+					</a>
+				</div> <!--/#carousel-slider-->
+			</div><!--/#about-slider-->
+			
+			
+			<!-- Our Skill -->
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<h2>مهارت های ما</h2>
+					<p class="lead">تیمی مرکب از افراد با تجربه و دانش آکادمیک در خدمت ماموریت و چشم انداز شرکت</p>
+				</div>
+				
+				<div class="row">
+		
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>85%</em></p>
+								<p>تامین، راه اندازی  و تعمیر ماشین آلات</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>95%</em></p>
+								<p>زمین شناسی و اکتشاف</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>80%</em></p>
+								<p>بهره برداری</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-3">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+							<div class="wp-skill">
+								<p><em>90%</em></p>
+								<p>بازار یابی</p>                                     
+							</div>
+						</div>
+					</div>
+					
+				</div>
+	
+            </div><!--/.our-skill-->
+			
+
+			<!-- our-team -->
+			<div class="team">
+				<div class="center wow fadeInDown">
+					<h2>تیم ساج دریل</h2>
+					<p class="lead">اعضای اصلی شرکت و تخصص های هر کدام</p>
+				</div>
+
+				<div class="row clearfix">
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man1.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مجتبی جانفشان</h4>
+									<h5>موسس و مدیر عامل</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">مهندسی برق و کنترل</a></li>
+										<li class="btn"><a href="#">مدیریت ارشد استراتژی</a></li>
+										<li class="btn"><a href="#">بازاریابی</a></li>
+										<li class="btn"><a href="#">بازرگانی</a></li>
+									</ul>
+									
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مجتبی در سال 1383 در جشنواه جوان خوارزمی موفق به کسب رتبه دوم کشوری در رشته نرم افزار شد، مقطع کارشناسی را در رشته مهندسی برق گرایش کنترل به پایان رساند و در رشته مدیریت MBA گرایش استراتژی در مقطع کارشناسی ارشد ادامه تحصیل داد، در سال 1390 گروه فنی مهندسی ساج و با برند ساجدریل را جهت تامین، توسعه دستگاه های کرگیری قابل حمل به عنوان بخشی از شرکت سرمایه گذاری الماس جانفشان تاسیس نمود.</p>
+						</div>
+					</div><!--/.col-lg-4 -->
+					
+					
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man2.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مقصود جانفشان</h4>
+									<h5>موسس و رئیس هیئت مدیره</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">زمین شناسی</a></li>
+										<li class="btn"><a href="#">اکتشاف معدن</a></li>
+										<li class="btn"><a href="#">بهره برداری معدن</a></li>
+										<li class="btn"><a href="#">مدیریت اجرایی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مقصود در سال 1385 بعد از 25 سال خدمت در وزارت صنعت، معدن و تجارت به عنوان رئیس بخش اکتشاف استان آذربایجان شرقی بازنشسته شد و به عنوان کارشناس پایه ارشد در زمینه اکتشاف به فعالیت های خود خارج از محدوده اداری ادامه داد، در ادامه با شرکت مهراصل جهت اکتشافات پلی متال همکاری نمود و چندین معدن راکد در استان را به مرحله بهره برداری رساند.</p>
+						</div>
+					</div><!--/.col-lg-4 -->					
+				</div> <!--/.row -->
+				<div class="row team-bar">
+					<div class="first-one-arrow hidden-xs">
+						<hr>
+					</div>
+					<div class="first-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="second-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+					<div class="third-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="fourth-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+				</div> <!--skill_border-->       
+
+				<div class="row clearfix">   
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man3.jpg'|theme }}" alt=""></a>
+								</div>
+
+								<div class="media-body">
+									<h4>مجتبی جانفشان</h4>
+									<h5>موسس و مدیر عامل</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">مهندسی برق و کنترل</a></li>
+										<li class="btn"><a href="#">مدیریت ارشد استراتژی</a></li>
+										<li class="btn"><a href="#">بازاریابی</a></li>
+										<li class="btn"><a href="#">بازرگانی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مجتبی در سال 1383 در جشنواه جوان خوارزمی موفق به کسب رتبه دوم کشوری در رشته نرم افزار شد، مقطع کارشناسی را در رشته مهندسی برق گرایش کنترل به پایان رساند و در رشته مدیریت MBA گرایش استراتژی در مقطع کارشناسی ارشد ادامه تحصیل داد، در سال 1390 گروه فنی مهندسی ساج و با برند ساجدریل را جهت تامین، توسعه دستگاه های کرگیری قابل حمل به عنوان بخشی از شرکت سرمایه گذاری الماس جانفشان تاسیس نمود.</p>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-md-offset-2">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="{{ 'assets/images/man4.jpg'|theme }}" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>مقصود جانفشان</h4>
+									<h5>موسس و رئیس هیئت مدیره</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">زمین شناسی</a></li>
+										<li class="btn"><a href="#">اکتشاف معدن</a></li>
+										<li class="btn"><a href="#">بهره برداری معدن</a></li>
+										<li class="btn"><a href="#">مدیریت اجرایی</a></li>
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>مقصود در سال 1385 بعد از 25 سال خدمت در وزارت صنعت، معدن و تجارت به عنوان رئیس بخش اکتشاف استان آذربایجان شرقی بازنشسته شد و به عنوان کارشناس پایه ارشد در زمینه اکتشاف به فعالیت های خود خارج از محدوده اداری ادامه داد، در ادامه با شرکت مهراصل جهت اکتشافات پلی متال همکاری نمود و چندین معدن راکد در استان را به مرحله بهره برداری رساند.</p>
+						</div>
+					</div>
+				</div>	<!--/.row-->
+			</div><!--section-->
+		</div><!--/.container-->
+    </section><!--/about-us-->";}";

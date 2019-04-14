@@ -1,0 +1,16 @@
+title = "سری مطالب"
+url = "/blog/blog-series-item/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[blogSeries]
+slug = "{{ :slug }}"
+noPostsMessage = "No posts found"
+categoryPage = "blog/blog"
+postPage = "blog/blog-item"
+==
+<div class="container">
+    {% component 'blogSeries' %}
+</div>

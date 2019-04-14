@@ -1,0 +1,260 @@
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 0: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 2: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 15: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 23: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 33: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 43: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 55: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 60: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 3: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 4: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 5: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 6: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 7: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 8: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 9: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 10: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 11: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 12: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 13: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 14: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 16: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 17: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 18: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 19: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 20: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 21: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 22: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 24: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 25: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 26: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 27: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 28: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 29: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 30: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 31: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 32: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 34: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 35: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 36: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 37: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 38: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 39: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 40: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 546: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 547: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 548: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 549: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 550: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 551: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 552: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 553: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 41: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 42: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 44: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 45: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 46: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 47: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 48: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 49: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 50: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 51: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 52: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 53: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 54: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 830: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 57: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 831: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 832: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 61: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): LIBDBUSMENU-GLIB-WARNING **: Unable to replace properties on 62: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'com.canonical.dbusmenu' on object at path /com/canonical/menu/3A00001
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+
+(unity-panel-service:2311): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed

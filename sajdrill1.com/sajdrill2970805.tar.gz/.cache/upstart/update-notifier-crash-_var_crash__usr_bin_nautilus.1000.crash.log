@@ -1,0 +1,5 @@
+‫جمعه ۲۶ اكتبر ۱۸، ساعت ۲۰:۳۰:۰۷ (+0330)‬ crash report /var/crash/_usr_bin_nautilus.1000.crash detected
+‫جمعه ۲۶ اكتبر ۱۸، ساعت ۲۰:۳۴:۱۳ (+0330)‬ crash report /var/crash/_usr_bin_nautilus.1000.crash detected
+‫شنبه ۲۷ اكتبر ۱۸، ساعت ۰۸:۰۳:۵۸ (+0330)‬ crash report /var/crash/_usr_bin_nautilus.1000.crash detected
+
+** (apport-gtk:2178): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-Qr0pSAFSJV: Connection refused

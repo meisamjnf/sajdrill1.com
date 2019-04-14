@@ -1,0 +1,27 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: ID
+        searchable: true
+        width: 5%
+    url:
+        label: Page url
+        searchable: false
+    text:
+        label: Page part
+        searchable: true
+    comment:
+        label: Comment
+        searchable: false
+    status:
+        label: Status
+        searchable: false
+        type: partial
+        path: ~/plugins/cheerfullab/frontendspelling/controllers/spellingrequests/_status_column.htm
+    created_at:
+        label: Added at
+        searchable: false
+        width: 10%

@@ -1,0 +1,25 @@
+{{ form_open({ request: 'onUpdate', model: member }) }}
+
+    <div class="form-group">
+        <label for="memberUsername">نام کاربری</label>
+        <input name="username" type="text" class="form-control" id="memberUsername" value="{{ form_value('username') }}">
+    </div>
+
+    <div class="form-group">
+        <div class="checkbox">
+            <label for="mailPreferences-topicReply">
+                <input name="MailPreferences[topic_reply]" type="hidden" value="0" />
+                <input
+                    id="mailPreferences-topicReply"
+                    name="MailPreferences[topic_reply]"
+                    {{ mailPreferences.topic_reply ? 'checked' }}
+                    type="checkbox"
+                    value="1" />
+                در مورد مباحثی که مایل به پیگیری هستم به من الاع بده.
+            </label>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-default">ذخیره</button>
+
+{{ form_close() }}

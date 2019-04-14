@@ -1,0 +1,161 @@
+9999999999s:5615:"a:6:{s:5:"mtime";i:1480150602;s:7:"content";s:2465:"title = "تست"
+url = "/test"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[feedback]
+channelCode = "default"
+successMessage = "پیغام شما با موفقیت ثبت گردید"
+redirectTo = 0
+
+[formSubscribe]
+urlToUnsubscribe = "unsubscribe"
+urlToProfile = "subscriber-profile"
+geo = "enabled"
+thanksMessage = "Thanks for subscribe!"
+errorMessage = "Email already exists!"
+
+[magnific]
+idGallery = 1
+height = 100
+width = "auto"
+
+[image]
+width = 400
+height = 200
+
+[text]
+length = "some"
+
+[skypeId]
+code = "abcd1"
+imageSize = 10
+
+[codeLogin]
+redirect = "home"
+button = "enter"
+
+[badge]
+data-href = "{{ //plus.google.com/u/0/101462181263184357684 }}"
+data-layout = "portrait"
+data-showcoverphoto = 1
+data-showtagline = 1
+data-theme = "light"
+data-width = 300
+lang = "en"
+
+[follow]
+data-href = "{{ //plus.google.com/u/0/101462181263184357684 }}"
+data-annotation = "bubble"
+data-height = 20
+lang = "en"
+
+[share]
+data-annotation = "bubble"
+data-height = 20
+data-align = "left"
+data-expandTo = "left"
+data-recommendations = 1
+lang = "en"
+
+[plusOne]
+data-size = "standard"
+data-annotation = "bubble"
+data-align = "left"
+data-expandTo = "left"
+data-recommendations = 1
+lang = "en"
+==
+<?php
+function n2f($string)
+{
+	  //arrays of persian and latin numbers
+	  $persian_num = array('۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹');
+	  $latin_num = range(0, 9);
+	   
+	  $string = str_replace($latin_num, $persian_num, $string);
+	   
+	  return $string;
+}
+	
+function onEnd()
+{
+		$date = new DateTime('now');
+		$this['mj1'] = $date->format('y/m/d');
+}
+?>
+==
+<div class="container">
+    {% component 'feedback' %}
+    {% component 'formSubscribe' %}
+    <hr/>
+    {% component 'magnific' %}
+    <hr/>
+    {% component 'image' %}{% component 'text' %}
+    <hr/>
+    {% component 'skypeId' %}
+    <hr/>
+    {% component 'codeLogin' %}
+    <hr/>
+    badge : {% component 'badge' %}
+    <hr/>
+    follow : {% component 'follow' %}
+    <hr/>
+    share : {% component 'share' %}
+    <hr/>
+    plus One : {% component 'plusOne' %}
+    <hr/>
+    <p>{{ mj1 }}</p>
+    <hr/>
+    <!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-person" data-href="//plus.google.com/u/0/101462181263184357684" data-rel="author"></div>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:7:{s:5:"title";s:6:"تست";s:3:"url";s:5:"/test";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"components";a:11:{s:8:"feedback";a:3:{s:11:"channelCode";s:7:"default";s:14:"successMessage";s:53:"پیغام شما با موفقیت ثبت گردید";s:10:"redirectTo";s:1:"0";}s:13:"formSubscribe";a:5:{s:16:"urlToUnsubscribe";s:11:"unsubscribe";s:12:"urlToProfile";s:18:"subscriber-profile";s:3:"geo";s:7:"enabled";s:13:"thanksMessage";s:21:"Thanks for subscribe!";s:12:"errorMessage";s:21:"Email already exists!";}s:8:"magnific";a:3:{s:9:"idGallery";s:1:"1";s:6:"height";s:3:"100";s:5:"width";s:4:"auto";}s:5:"image";a:2:{s:5:"width";s:3:"400";s:6:"height";s:3:"200";}s:4:"text";a:1:{s:6:"length";s:4:"some";}s:7:"skypeId";a:2:{s:4:"code";s:5:"abcd1";s:9:"imageSize";s:2:"10";}s:9:"codeLogin";a:2:{s:8:"redirect";s:4:"home";s:6:"button";s:5:"enter";}s:5:"badge";a:7:{s:9:"data-href";s:49:"{{ //plus.google.com/u/0/101462181263184357684 }}";s:11:"data-layout";s:8:"portrait";s:19:"data-showcoverphoto";s:1:"1";s:16:"data-showtagline";s:1:"1";s:10:"data-theme";s:5:"light";s:10:"data-width";s:3:"300";s:4:"lang";s:2:"en";}s:6:"follow";a:4:{s:9:"data-href";s:49:"{{ //plus.google.com/u/0/101462181263184357684 }}";s:15:"data-annotation";s:6:"bubble";s:11:"data-height";s:2:"20";s:4:"lang";s:2:"en";}s:5:"share";a:6:{s:15:"data-annotation";s:6:"bubble";s:11:"data-height";s:2:"20";s:10:"data-align";s:4:"left";s:13:"data-expandTo";s:4:"left";s:20:"data-recommendations";s:1:"1";s:4:"lang";s:2:"en";}s:7:"plusOne";a:6:{s:9:"data-size";s:8:"standard";s:15:"data-annotation";s:6:"bubble";s:10:"data-align";s:4:"left";s:13:"data-expandTo";s:4:"left";s:20:"data-recommendations";s:1:"1";s:4:"lang";s:2:"en";}}}s:4:"code";s:382:"
+function n2f($string)
+{
+	  //arrays of persian and latin numbers
+	  $persian_num = array('۰', '۱', '۲', '۳', '۴', '۵', '۶', '۷', '۸', '۹');
+	  $latin_num = range(0, 9);
+	   
+	  $string = str_replace($latin_num, $persian_num, $string);
+	   
+	  return $string;
+}
+	
+function onEnd()
+{
+		$date = new DateTime('now');
+		$this['mj1'] = $date->format('y/m/d');
+}
+";s:6:"markup";s:856:"<div class="container">
+    {% component 'feedback' %}
+    {% component 'formSubscribe' %}
+    <hr/>
+    {% component 'magnific' %}
+    <hr/>
+    {% component 'image' %}{% component 'text' %}
+    <hr/>
+    {% component 'skypeId' %}
+    <hr/>
+    {% component 'codeLogin' %}
+    <hr/>
+    badge : {% component 'badge' %}
+    <hr/>
+    follow : {% component 'follow' %}
+    <hr/>
+    share : {% component 'share' %}
+    <hr/>
+    plus One : {% component 'plusOne' %}
+    <hr/>
+    <p>{{ mj1 }}</p>
+    <hr/>
+    <!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-person" data-href="//plus.google.com/u/0/101462181263184357684" data-rel="author"></div>
+</div>";}";

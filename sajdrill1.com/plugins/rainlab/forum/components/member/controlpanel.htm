@@ -1,0 +1,42 @@
+<div class="panel">
+    <div class="list-group">
+
+        {% if otherMember.is_moderator %}
+            <a
+                href="javascript:;"
+                class="list-group-item"
+                data-request="onBan"
+                data-request-update="'@controlpanel': '#memberControlPanel'"
+                >
+                {% if member.is_banned %}
+                    غیرمسدود کردن کاربر
+                {% else %}
+                    مسدود کردن کاربر
+                {% endif %}
+            </a>
+        {% endif %}
+
+        <a
+            href="javascript:;"
+            class="list-group-item"
+            data-request="onReport"
+            data-request-update="'@controlpanel': '#memberControlPanel'"
+            data-request-confirm="آیا مطمئن هستید که می خواهید این کاربر به عنوان اسپمر مشخص شود؟"
+            >
+            گزارش به عنوان اسپمر
+        </a>
+
+        {% if canEdit %}
+            <a
+                href="{{ this.page.baseFileName|page }}?mode=edit"
+                class="list-group-item">
+                ویرایش جزئیات
+            </a>
+        {% endif %}
+
+        <div class="list-group-item">
+            <i class="fa fa-eye icon-comments"></i> {{ n2f(member.count_posts) }} پست
+        </div>
+
+    </div>
+</div>
