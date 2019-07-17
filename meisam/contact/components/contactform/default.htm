@@ -1,0 +1,19 @@
+<form data-request="onSave" dir="rtl" data-request-validate data-request-flash>
+    <label>نام و نام خانوادگی:</label>
+    <input placeholder="اختیاری" type="text" name="name" class="form-control" size="35"><br>
+
+    <label>ایمیل:</label><span data-validate-for="email" style="color:red;"> لطفا ایمیل خود را وارد نمایید</span><br>
+    <input placeholder= "ایمیل خود را وارد نمایید" type="email" name="email" class="form-control"><br>
+   
+
+    <label>شماره موبایل:</label><br>
+    <input placeholder="اختیاری" type="text" name="phonenumber" class="form-control"><br>
+    <label>پیام شما: </label><span data-validate-for="comment" style="color:red;">لطفا پیام خود را وارد نمایید</span><br>
+    <textarea placeholder="پیام خود را بنویسید" name="comment" class="form-control"></textarea>
+     </br>
+
+    <button type="submit" class="btn btn-danger" data-attach-loading><span class="glyphicon glyphicon-send"></span>ارسال</button>
+    {% flash success %}
+        <p style="color:red;">{{ message }}</p>
+    {% endflash %}
+</form>

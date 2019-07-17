@@ -1,0 +1,21 @@
+columns:
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    email:
+        label: Email
+        type: text
+        searchable: true
+        sortable: true
+    comment:
+        label: Comment
+        type: text
+        searchable: true
+        sortable: true
+    phonenumber:
+        label: Phonenumber
+        type: number
+        searchable: true
+        sortable: true

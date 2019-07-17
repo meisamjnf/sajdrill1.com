@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Contact
+
+# Model Form Field configuration
+form: $/meisam/contact/models/contact/fields.yaml
+
+# Model Class name
+modelClass: Meisam\Contact\Models\Contact
+
+# Default redirect location
+defaultRedirect: meisam/contact/contacts
+
+# Create page
+create:
+    title: Create Contact
+    redirect: meisam/contact/contacts/update/:id
+    redirectClose: meisam/contact/contacts
+
+# Update page
+update:
+    title: Edit Contact
+    redirect: meisam/contact/contacts
+    redirectClose: meisam/contact/contacts
+
+# Preview page
+preview:
+    title: Preview Contact

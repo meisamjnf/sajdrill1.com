@@ -1,0 +1,19 @@
+fields:
+    name:
+        label: Name
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    email:
+        label: Email
+        span: auto
+        type: text
+    comment:
+        label: Comment
+        span: right
+        size: ''
+        type: textarea
+    phonenumber:
+        label: 'Phone number'
+        span: left
+        type: number
